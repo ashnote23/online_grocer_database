@@ -1,6 +1,4 @@
-# online_grocer_database
-DBMS Major Project
-
+# online_groc_store
 Online Grocery Stores Using PHP and Mysql database
 
 Requirements:Xampp/Wamp server
